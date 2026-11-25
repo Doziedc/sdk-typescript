@@ -602,3 +602,7 @@ function outcome(
   }
   return { status, reviewUrl, review, gaps, reason };
 }
+
+Implement iterPullRequestReviews for pagination
+
+Verified-by: none (Local verification not run in this environment)
